@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fdb747-e9eb-42db-a051-74c8cf6ad082" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-96" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectId" id="1V4nVDfRlLxvvtFi1fpisvvhdVN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576688965668" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.VectorQuantization">
+    <configuration name="Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code" />
+      <module name="VectorQuantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorQuantization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorQuantization" />
+      <module name="VectorQuantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Code" />
+      <item itemvalue="Application.VectorQuantization" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VectorQuantization" />
+        <item itemvalue="Application.Code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fdb747-e9eb-42db-a051-74c8cf6ad082" name="Default Changelist" comment="" />
+      <created>1576521257707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576521257707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="303" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576845781706">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="531" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1576610036697" />
+    <state x="622" y="303" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.870@0.0.1600.870" timestamp="1576845781706" />
+    <state x="542" y="145" key="FileChooserDialogImpl" timestamp="1576919547048">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576592826489" />
+    <state x="542" y="145" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1576919547048" />
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom" timestamp="1577188368699">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577188368699" />
+    <state width="1557" height="251" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1576846921653" />
+    <state width="1323" height="203" key="GridCell.Tab.0.center" timestamp="1577188368699">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577188368699" />
+    <state width="1557" height="251" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1576846921653" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left" timestamp="1577188368698">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577188368698" />
+    <state width="1557" height="251" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1576846921653" />
+    <state width="1323" height="203" key="GridCell.Tab.0.right" timestamp="1577188368699">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577188368699" />
+    <state width="1557" height="251" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1576846921653" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1576919487050">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1576919487050" />
+    <state x="182" y="54" key="new project wizard" timestamp="1576919580674">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="182" y="54" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1576919580674" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VectorQuantization</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
